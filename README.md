@@ -104,19 +104,3 @@ streamlit run ui.py
    * Topic segmentation
    * Key insights
    * Learning points
-
----
-
-# 📌 Future Improvements
-
-* Multi-language support
-* Sentiment analysis
-* Export reports as PDF
-* Video recommendation system
-* Voice summary generation
-
----
-
-# 👨‍💻 Author
-
-Kumkum Nath
